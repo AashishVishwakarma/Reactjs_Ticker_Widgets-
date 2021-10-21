@@ -7,3 +7,18 @@ Overview Create an application that replicates the  Ticker widgets functionality
 
 
 ![image](https://user-images.githubusercontent.com/55871146/137847939-c56f2369-ae52-4852-ad78-ef09c8a216c6.png)
+
+
+
+## Development
+
+
+### `npm install`
+
+
+### `npm start`
+
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
